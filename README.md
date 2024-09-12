@@ -17,3 +17,6 @@ The Lasso method is widely used for regularization and variable selection, but i
 ### Methodology
 
 The Lasso-based IV estimator is asymptotically normal and efficient under the assumption of approximately sparse models, where only a subset of instruments contribute significantly to the first-stage predictions. The project explores this methodology through simulations and real-world applications, showcasing how Lasso and post-Lasso techniques can improve inference in complex, high-dimensional environments.
+
+## References
+Alexandre Belloni, Daniel L. Chen, Victor Chernozhukov, and Christian Hansen, “Sparse Models and Methods for Optimal Instruments with an Application to Eminent Domain”, Econometrica, vol. 80, n. 6, November 2012, pp. 2369–2429. [Link to Paper](https://ice.uchicago.edu/2011_presentations/29_Belloni/Paper_01_OptimalIVEmaRev1-v03.pdf)
